@@ -1,5 +1,4 @@
-# Ground Control - Tech task
-
+# Ground Control Frontend
 ### Implementation details
 
 - Built with NextJs/React/Tailwind
