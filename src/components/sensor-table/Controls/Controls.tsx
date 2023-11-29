@@ -22,7 +22,6 @@ export const Controls: FC<{
     setFilters({ visibleRows: DEFAULT_TABLE_ROWS });
   return (
     <aside className="relative md:sticky top-0 mt-[26px] text-sm md:text-base md:h-10">
-      {JSON.stringify(filters)}
       <Collapsible collapsibleTitle="filters">
         <ResetButton clear={handleClearFilters} />
         <div className="bg-slate-300 rounded-sm p-2 mb-2">
