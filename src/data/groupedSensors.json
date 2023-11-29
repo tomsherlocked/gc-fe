@@ -1,0 +1,1427 @@
+[
+  {
+    "sensorId": "821ef78d-4b53-4bf4-83d5-686ad81deb48",
+    "data": [
+      {
+        "id": "c19706c4-707b-4d42-9654-93248fd8d34c",
+        "date": "2019-06-16T14:00:25.114Z",
+        "location": "51.205424, -1.369337",
+        "payload": {
+          "temperature": "3C",
+          "height": "4.13M",
+          "speed": "3.26M/s",
+          "battery": "98%",
+          "oxygen": "50mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "27a30372-77d5-4f10-a048-a2edaea369fe",
+        "date": "2020-01-13T16:58:57.371Z",
+        "location": "51.195424, -1.369337",
+        "payload": {
+          "temperature": "-10C",
+          "height": "14.66M",
+          "speed": "5.19M/s",
+          "battery": "51%",
+          "oxygen": "11mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "f420160b-ee15-4756-9827-7bbc61c98fe0",
+        "date": "2020-05-19T11:57:38.040Z",
+        "location": "51.195424, -1.369337",
+        "payload": {
+          "temperature": "17C",
+          "height": "5.03M",
+          "speed": "7.15M/s",
+          "battery": "89%",
+          "oxygen": "13mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "037bc247-f509-41a3-be89-9faad82c421b",
+        "date": "2020-07-22T23:08:03.726Z",
+        "location": "51.205424, -1.379337",
+        "payload": {
+          "temperature": "26C",
+          "height": "12.96M",
+          "speed": "6.73M/s",
+          "battery": "92%",
+          "oxygen": "25mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "60d88adf-b85b-4ec4-b6e8-b0e5fd94caf8",
+        "date": "2020-06-03T19:44:26.190Z",
+        "location": "51.205424, -1.379337",
+        "payload": {
+          "temperature": "23C",
+          "height": "17.06M",
+          "speed": "6.35M/s",
+          "battery": "80%",
+          "oxygen": "9mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "c959c11e-1b0d-4bf6-adec-3b5703d301f2",
+        "date": "2020-05-17T10:07:19.952Z",
+        "location": "51.195424, -1.369337",
+        "payload": {
+          "temperature": "10C",
+          "height": "8.96M",
+          "speed": "17.48M/s",
+          "battery": "38%",
+          "oxygen": "46mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "e33f164e-f903-4728-b07d-a59083e6c301",
+        "date": "2020-05-24T00:02:09.496Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "18C",
+          "height": "2.11M",
+          "speed": "10.46M/s",
+          "battery": "2%",
+          "oxygen": "42mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "61dbbd14-3746-4e56-9415-f2c386ec550e",
+        "date": "2020-08-11T12:39:38.225Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "28C",
+          "height": "15.6M",
+          "speed": "17.36M/s",
+          "battery": "41%",
+          "oxygen": "30mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "a4a78c70-c87b-41e6-8c9c-a022d757f4fa",
+        "date": "2019-08-14T23:04:07.166Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "23C",
+          "height": "14.99M",
+          "speed": "18.61M/s",
+          "battery": "35%",
+          "oxygen": "39mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "a3ceb587-7ecd-451c-a830-128ecc7bcc48",
+        "date": "2019-10-06T20:56:37.873Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "9C",
+          "height": "14.68M",
+          "speed": "0.18M/s",
+          "battery": "32%",
+          "oxygen": "19mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "0782fe2f-f98f-4206-b745-ab1554918850",
+        "date": "2019-02-22T23:21:11.626Z",
+        "location": "51.195424, -1.369337",
+        "payload": {
+          "temperature": "25C",
+          "height": "9.23M",
+          "speed": "16.94M/s",
+          "battery": "81%",
+          "oxygen": "24mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "1e569d90-d756-4694-a780-8d8102a28045",
+        "date": "2019-04-30T23:26:43.549Z",
+        "location": "51.205424, -1.369337",
+        "payload": {
+          "temperature": "16C",
+          "height": "8.02M",
+          "speed": "9.7M/s",
+          "battery": "82%",
+          "oxygen": "6mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "3a47fdd4-9fc3-4692-bbbb-6536548b1692",
+        "date": "2020-10-30T11:08:22.216Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "29C",
+          "height": "11.4M",
+          "speed": "18.5M/s",
+          "battery": "20%",
+          "oxygen": "13mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "df27cdba-4eb3-41aa-ad5a-e9fa9773bee8",
+        "date": "2020-04-12T02:09:37.246Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "30C",
+          "height": "17.63M",
+          "speed": "3.84M/s",
+          "battery": "63%",
+          "oxygen": "10mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "0155c642-84d4-4a9e-933a-fdc26af3d28c",
+        "date": "2019-10-19T20:31:24.967Z",
+        "location": "51.205424, -1.369337",
+        "payload": {
+          "temperature": "26C",
+          "height": "11.07M",
+          "speed": "14.99M/s",
+          "battery": "11%",
+          "oxygen": "21mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "319ef078-9ac9-4aaa-ae19-bba0a04b9db1",
+        "date": "2019-08-12T04:58:02.281Z",
+        "location": "51.205424, -1.379337",
+        "payload": {
+          "temperature": "-8C",
+          "height": "8.93M",
+          "speed": "4.9M/s",
+          "battery": "75%",
+          "oxygen": "46mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "7231e2ce-0fb6-4056-890e-dddb1ad68542",
+        "date": "2020-08-12T20:20:47.016Z",
+        "location": "51.195424, -1.379337",
+        "payload": {
+          "temperature": "-5C",
+          "height": "12.37M",
+          "speed": "12.68M/s",
+          "battery": "96%",
+          "oxygen": "19mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "db331392-13a3-415b-b024-b9ae4baa8908",
+        "date": "2020-03-12T20:07:48.925Z",
+        "location": "51.195424, -1.369337",
+        "payload": {
+          "temperature": "3C",
+          "height": "10.66M",
+          "speed": "7.09M/s",
+          "battery": "5%",
+          "oxygen": "undefinedmg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "ea2d5401-60b8-4ce2-a0ec-c81b427f0037",
+        "date": "2019-10-26T12:05:19.268Z",
+        "location": "51.205424, -1.379337",
+        "payload": {
+          "temperature": "-10C",
+          "height": "1.26M",
+          "speed": "10.18M/s",
+          "battery": "53%",
+          "oxygen": "18mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "6e8f93bb-27b9-4725-bb2d-8659ec652c34",
+        "date": "2019-08-01T21:13:55.929Z",
+        "location": "51.205424, -1.369337",
+        "payload": {
+          "temperature": "3C",
+          "height": "12.86M",
+          "speed": "9.84M/s",
+          "battery": "43%",
+          "oxygen": "18mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      }
+    ]
+  },
+  {
+    "sensorId": "ea7e3611-a61f-4e6d-996d-063a2e890195",
+    "data": [
+      {
+        "id": "9e17c466-b516-45ac-81c0-3b2ae2d9e1ca",
+        "date": "2019-11-15T19:00:52.510Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "1C",
+          "height": "4.27M",
+          "speed": "0.39M/s",
+          "battery": "61%",
+          "oxygen": "49mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "5d0c6274-1fc9-4326-af8a-2df52013983f",
+        "date": "2020-04-01T02:50:31.838Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "8C",
+          "height": "8.3M",
+          "speed": "3.23M/s",
+          "battery": "74%",
+          "oxygen": "25mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "8a8be8fe-d48e-4633-8196-08672647231b",
+        "date": "2019-10-29T14:28:07.321Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "19C",
+          "height": "15.3M",
+          "speed": "18.11M/s",
+          "battery": "99%",
+          "oxygen": "26mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "984b3283-7e38-4ae3-8fac-9d466b0cd6c8",
+        "date": "2020-04-21T21:50:54.476Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "29C",
+          "height": "15.07M",
+          "speed": "19.4M/s",
+          "battery": "43%",
+          "oxygen": "11mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "dca1f7bd-80fd-4f4e-b376-a4a47efab80b",
+        "date": "2020-11-17T03:17:42.453Z",
+        "location": "51.726449, -4.049007",
+        "payload": {
+          "temperature": "7C",
+          "height": "17.77M",
+          "speed": "5.42M/s",
+          "battery": "57%",
+          "oxygen": "7mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "6b4f4b75-ebf6-4de5-91ba-180696d1cc57",
+        "date": "2020-01-09T20:33:26.872Z",
+        "location": "51.726449, -4.039007",
+        "payload": {
+          "temperature": "-2C",
+          "height": "19.14M",
+          "speed": "8.62M/s",
+          "battery": "98%",
+          "oxygen": "10mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "46bf3dce-81d3-41d4-8a8f-8f9b710a477c",
+        "date": "2019-06-06T15:06:09.368Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "26C",
+          "height": "18.02M",
+          "speed": "19.01M/s",
+          "battery": "8%",
+          "oxygen": "17mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "f41e3f8e-d08b-4326-9575-9881c84d25ee",
+        "date": "2020-07-07T09:48:44.928Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "9C",
+          "height": "17.46M",
+          "speed": "19.45M/s",
+          "battery": "9%",
+          "oxygen": "17mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "6fcaf401-250e-4f58-ab1b-7fda87e17e4a",
+        "date": "2019-12-27T20:03:11.592Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "15C",
+          "height": "19.31M",
+          "speed": "4.4M/s",
+          "battery": "65%",
+          "oxygen": "16mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "48e12bc1-c294-4d10-95c1-58fe30c95fd0",
+        "date": "2019-01-22T22:18:10.872Z",
+        "location": "51.726449, -4.039007",
+        "payload": {
+          "temperature": "26C",
+          "height": "13.38M",
+          "speed": "19.78M/s",
+          "battery": "22%",
+          "oxygen": "41mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "e0de1d4c-4657-4771-bdf3-850b8619f146",
+        "date": "2020-03-05T15:50:45.494Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "26C",
+          "height": "5.55M",
+          "speed": "8.03M/s",
+          "battery": "55%",
+          "oxygen": "30mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "19f61031-3571-4020-9429-164a552a0f75",
+        "date": "2019-11-24T11:22:27.614Z",
+        "location": "51.726449, -4.049007",
+        "payload": {
+          "temperature": "6C",
+          "height": "0.94M",
+          "speed": "11.09M/s",
+          "battery": "8%",
+          "oxygen": "undefinedmg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "75126da7-9b6e-43b8-8c49-33b7234340ba",
+        "date": "2019-06-15T04:01:59.904Z",
+        "location": "51.726449, -4.039007",
+        "payload": {
+          "temperature": "-9C",
+          "height": "13.55M",
+          "speed": "19.66M/s",
+          "battery": "42%",
+          "oxygen": "16mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "3839e2c8-d2c6-49d7-a292-4afae9167013",
+        "date": "2019-07-29T09:49:19.536Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "10C",
+          "height": "8.42M",
+          "speed": "0.84M/s",
+          "battery": "91%",
+          "oxygen": "35mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "6ee6b429-9d5f-41cd-bef3-eeede1ea94c1",
+        "date": "2019-07-23T11:32:19.644Z",
+        "location": "51.736449, -4.039007",
+        "payload": {
+          "temperature": "6C",
+          "height": "11.28M",
+          "speed": "0.35M/s",
+          "battery": "91%",
+          "oxygen": "6mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "2d933068-7874-42e1-98b3-49e5f18e6591",
+        "date": "2020-07-23T12:13:48.573Z",
+        "location": "51.726449, -4.049007",
+        "payload": {
+          "temperature": "-2C",
+          "height": "3.57M",
+          "speed": "7.06M/s",
+          "battery": "40%",
+          "oxygen": "12mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "66370953-75de-4d6f-a758-e8abc1c97d26",
+        "date": "2019-11-16T17:43:48.908Z",
+        "location": "51.736449, -4.039007",
+        "payload": {
+          "temperature": "4C",
+          "height": "19.11M",
+          "speed": "13.74M/s",
+          "battery": "41%",
+          "oxygen": "20mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "74efa6e1-4228-41c8-a858-d226a8817f92",
+        "date": "2020-10-28T02:50:41.264Z",
+        "location": "51.726449, -4.049007",
+        "payload": {
+          "temperature": "23C",
+          "height": "8.44M",
+          "speed": "11.04M/s",
+          "battery": "51%",
+          "oxygen": "25mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "dd3b5ea3-056e-4cc6-8e1c-a7f342212d44",
+        "date": "2019-10-30T12:46:18.303Z",
+        "location": "51.726449, -4.049007",
+        "payload": {
+          "temperature": "21C",
+          "height": "4.88M",
+          "speed": "2.69M/s",
+          "battery": "70%",
+          "oxygen": "15mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "3d1ba27f-2e6f-4e4b-a451-8c8fdcb6912e",
+        "date": "2020-12-08T23:02:44.656Z",
+        "location": "51.736449, -4.049007",
+        "payload": {
+          "temperature": "27C",
+          "height": "1.52M",
+          "speed": "19.69M/s",
+          "battery": "83%",
+          "oxygen": "50mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      }
+    ]
+  },
+  {
+    "sensorId": "c129d49e-a858-40d2-9945-0bb71b50971b",
+    "data": [
+      {
+        "id": "fc11dcf9-6bcb-45ad-98a2-38c895d4f241",
+        "date": "2020-09-12T22:04:28.336Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "0C",
+          "height": "3.17M",
+          "speed": "14.05M/s",
+          "battery": "1%",
+          "oxygen": "5mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "174c63d3-55a6-42a3-9692-37813e866220",
+        "date": "2019-04-19T02:38:01.467Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "2C",
+          "height": "2.66M",
+          "speed": "13.27M/s",
+          "battery": "20%",
+          "oxygen": "29mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "266ba091-ac21-4e35-a76f-78a616668ba7",
+        "date": "2019-05-23T21:58:40.512Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "5C",
+          "height": "13.34M",
+          "speed": "1.51M/s",
+          "battery": "99%",
+          "oxygen": "31mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "deeb1258-074e-489c-af9f-864a960fc529",
+        "date": "2019-01-15T06:21:46.695Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "13C",
+          "height": "8.92M",
+          "speed": "17.53M/s",
+          "battery": "89%",
+          "oxygen": "16mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "05cb004a-8a6e-4402-8794-f503a778b499",
+        "date": "2020-03-09T18:59:59.372Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "22C",
+          "height": "13.14M",
+          "speed": "13.54M/s",
+          "battery": "41%",
+          "oxygen": "43mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "b2631e1f-9915-4e14-8d62-f7a3053d26f7",
+        "date": "2020-03-12T03:38:22.018Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "19C",
+          "height": "4.47M",
+          "speed": "11.67M/s",
+          "battery": "81%",
+          "oxygen": "44mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "ab18fb17-1bd6-419c-977c-84d033933162",
+        "date": "2019-05-02T16:32:41.117Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "24C",
+          "height": "8.77M",
+          "speed": "13.07M/s",
+          "battery": "46%",
+          "oxygen": "32mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "241f87d2-9730-4e38-8bb6-510ff5c66439",
+        "date": "2019-08-28T04:45:48.504Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "2C",
+          "height": "18.4M",
+          "speed": "2.6M/s",
+          "battery": "27%",
+          "oxygen": "0mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "89ec5aea-01aa-4b20-ac8a-06c771947a5b",
+        "date": "2019-02-14T01:16:57.019Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "-1C",
+          "height": "7.07M",
+          "speed": "8.7M/s",
+          "battery": "35%",
+          "oxygen": "22mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "546f7ff2-7b2c-43d3-b38b-8c7fedb0e473",
+        "date": "2020-04-10T12:18:05.719Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "16C",
+          "height": "11.96M",
+          "speed": "10.26M/s",
+          "battery": "93%",
+          "oxygen": "27mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "a95232b1-1dfb-44e0-aebc-278d54f8652b",
+        "date": "2019-02-04T05:12:25.647Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "9C",
+          "height": "17.69M",
+          "speed": "8.26M/s",
+          "battery": "43%",
+          "oxygen": "23mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "49845df4-73f7-457a-bcfe-b3a549613e70",
+        "date": "2019-10-13T21:38:50.261Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "29C",
+          "height": "0.1M",
+          "speed": "17.97M/s",
+          "battery": "75%",
+          "oxygen": "19mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "b846cfbe-5515-43bf-a582-c23676b21168",
+        "date": "2020-04-18T16:47:23.746Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "-5C",
+          "height": "4.33M",
+          "speed": "0.14M/s",
+          "battery": "61%",
+          "oxygen": "1mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "b4bf1a64-a7c8-452a-a5ab-c5f1b5ba2cf9",
+        "date": "2019-12-08T21:32:52.874Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "26C",
+          "height": "10.6M",
+          "speed": "8.54M/s",
+          "battery": "69%",
+          "oxygen": "19mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "3f1305d7-b3dc-49b3-b9ea-40e63ca49d16",
+        "date": "2020-12-13T06:58:07.456Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "6C",
+          "height": "1.12M",
+          "speed": "8.19M/s",
+          "battery": "55%",
+          "oxygen": "21mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "cb7d4b23-0a7a-4462-89bd-43ba827a1820",
+        "date": "2020-12-08T18:24:00.052Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "5C",
+          "height": "13.26M",
+          "speed": "18.56M/s",
+          "battery": "93%",
+          "oxygen": "4mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "f3c134c7-39d2-428d-86de-0069711a73f0",
+        "date": "2020-12-14T12:21:33.581Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "7C",
+          "height": "7.93M",
+          "speed": "10.86M/s",
+          "battery": "37%",
+          "oxygen": "23mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "f067690b-7bdb-480c-afef-ce7b52085906",
+        "date": "2019-12-17T22:52:32.666Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "27C",
+          "height": "17.68M",
+          "speed": "14.07M/s",
+          "battery": "54%",
+          "oxygen": "34mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "75e2cff8-1445-4c10-b8d4-049788a896ba",
+        "date": "2019-04-02T04:23:15.522Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "9C",
+          "height": "0.74M",
+          "speed": "15.55M/s",
+          "battery": "32%",
+          "oxygen": "50mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "c929ae94-1b93-405e-b957-4d63a8aaf42f",
+        "date": "2020-10-19T09:56:56.527Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "12C",
+          "height": "4.02M",
+          "speed": "15.15M/s",
+          "battery": "80%",
+          "oxygen": "27mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      }
+    ]
+  },
+  {
+    "sensorId": "eeb90cb9-44ca-4ab3-8d5b-d87379f60de0",
+    "data": [
+      {
+        "id": "9cc3057f-f460-4ba8-928b-d45e85e34efa",
+        "date": "2020-07-07T09:54:37.133Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "15C",
+          "height": "11.38M",
+          "speed": "8.12M/s",
+          "battery": "41%",
+          "oxygen": "18mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "1f48e2c7-0b34-450c-9711-c265ca639239",
+        "date": "2019-01-14T23:14:59.570Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "5C",
+          "height": "16.65M",
+          "speed": "0.55M/s",
+          "battery": "97%",
+          "oxygen": "7mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "87437246-b4cb-4a4d-922e-8e0bf2ee9e16",
+        "date": "2019-08-09T22:57:31.350Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "4C",
+          "height": "0.91M",
+          "speed": "6.84M/s",
+          "battery": "20%",
+          "oxygen": "49mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "f52ede9d-377e-4ede-938e-90fbe5e5d525",
+        "date": "2020-10-14T07:15:51.017Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "16C",
+          "height": "1.61M",
+          "speed": "17.93M/s",
+          "battery": "43%",
+          "oxygen": "21mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "b9562b34-9d2e-4dce-afbb-e60b3033dcda",
+        "date": "2019-12-09T23:05:41.822Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "16C",
+          "height": "8.63M",
+          "speed": "0.17M/s",
+          "battery": "9%",
+          "oxygen": "41mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "28dcdde4-cf78-4187-9267-aeedfe15a27a",
+        "date": "2019-09-16T17:30:33.131Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "16C",
+          "height": "19.02M",
+          "speed": "2.18M/s",
+          "battery": "13%",
+          "oxygen": "25mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "9badb2ea-e5a7-4411-b210-c4a9724656b5",
+        "date": "2019-11-28T14:45:19.323Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "-2C",
+          "height": "8.71M",
+          "speed": "0.19M/s",
+          "battery": "21%",
+          "oxygen": "45mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "00764e36-5552-4d42-9774-8cf172e1118e",
+        "date": "2019-11-09T01:30:15.043Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "29C",
+          "height": "10.96M",
+          "speed": "5.68M/s",
+          "battery": "0%",
+          "oxygen": "24mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "0491d223-ff8c-4c2a-9646-bea5606cc8be",
+        "date": "2019-04-17T00:37:16.188Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "-3C",
+          "height": "0.49M",
+          "speed": "16.29M/s",
+          "battery": "67%",
+          "oxygen": "20mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "eb8ed78d-2ea2-4024-a081-a374c4d65d1e",
+        "date": "2019-10-17T10:39:07.744Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "-10C",
+          "height": "13.6M",
+          "speed": "4.9M/s",
+          "battery": "26%",
+          "oxygen": "13mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "2c0289e3-dbdb-4876-b9fc-6dfa1b2950ca",
+        "date": "2019-10-14T03:33:28.392Z",
+        "location": "51.503289, -0.121575",
+        "payload": {
+          "temperature": "18C",
+          "height": "12.23M",
+          "speed": "18.06M/s",
+          "battery": "56%",
+          "oxygen": "34mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "df38fbd2-5354-4a1b-98c5-af48d22c145a",
+        "date": "2020-05-13T03:38:50.811Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "17C",
+          "height": "18.48M",
+          "speed": "14.62M/s",
+          "battery": "95%",
+          "oxygen": "44mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "2658c544-7cb8-4735-a6d4-6e2d96afcf1e",
+        "date": "2020-11-29T04:58:34.116Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "-10C",
+          "height": "7.85M",
+          "speed": "15.97M/s",
+          "battery": "97%",
+          "oxygen": "44mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "f06a73d3-7013-48c0-a1ed-bd597e96df2a",
+        "date": "2019-02-10T07:53:24.963Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "22C",
+          "height": "14.56M",
+          "speed": "5.73M/s",
+          "battery": "65%",
+          "oxygen": "29mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "f4816f0f-7ce5-4b64-85aa-fe89f5579e52",
+        "date": "2020-04-09T21:14:40.047Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "10C",
+          "height": "0.56M",
+          "speed": "5.37M/s",
+          "battery": "99%",
+          "oxygen": "29mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "83ad7345-c30b-493f-ad8a-cb80b4d43ff0",
+        "date": "2020-05-25T00:35:16.754Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "10C",
+          "height": "6.33M",
+          "speed": "8.42M/s",
+          "battery": "1%",
+          "oxygen": "34mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "3687a08c-d2c1-4b7d-8de5-1baa312c333e",
+        "date": "2020-10-25T16:49:51.844Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "-8C",
+          "height": "18.9M",
+          "speed": "7.28M/s",
+          "battery": "91%",
+          "oxygen": "18mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "e21764fa-bfa9-4689-a0db-6f946b2cb5ac",
+        "date": "2020-08-06T22:32:51.163Z",
+        "location": "51.503289, -0.111575",
+        "payload": {
+          "temperature": "22C",
+          "height": "1.94M",
+          "speed": "6.07M/s",
+          "battery": "70%",
+          "oxygen": "5mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "594573d8-e27a-4527-a759-e0c56e80d9aa",
+        "date": "2019-04-28T16:24:58.373Z",
+        "location": "51.513289, -0.121575",
+        "payload": {
+          "temperature": "1C",
+          "height": "14.32M",
+          "speed": "12.26M/s",
+          "battery": "98%",
+          "oxygen": "23mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "b2b9fd29-922f-469e-a285-5fddc56a44da",
+        "date": "2020-05-27T22:13:23.617Z",
+        "location": "51.513289, -0.111575",
+        "payload": {
+          "temperature": "5C",
+          "height": "19.53M",
+          "speed": "7.86M/s",
+          "battery": "23%",
+          "oxygen": "15mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      }
+    ]
+  },
+  {
+    "sensorId": "b441c17c-d1de-4781-b7e8-39a2713c0d6a",
+    "data": [
+      {
+        "id": "3654028c-e67e-403c-9189-2c12e8a7f1d2",
+        "date": "2020-09-14T11:46:12.787Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "14C",
+          "height": "10.27M",
+          "speed": "19.92M/s",
+          "battery": "46%",
+          "oxygen": "31mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "e3f27436-421e-4536-8ea4-428dcfcf3f18",
+        "date": "2020-03-09T15:05:38.470Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "18C",
+          "height": "6.73M",
+          "speed": "6.69M/s",
+          "battery": "21%",
+          "oxygen": "4mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "3dd443aa-e1de-49d8-b9dc-08da199ccaaf",
+        "date": "2020-03-01T04:36:10.577Z",
+        "location": "51.892433, -2.261162",
+        "payload": {
+          "temperature": "-2C",
+          "height": "6.16M",
+          "speed": "17.68M/s",
+          "battery": "29%",
+          "oxygen": "8mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "e05f1cd0-0af7-4954-acb5-480d4ec8b10f",
+        "date": "2019-12-18T05:35:37.341Z",
+        "location": "51.892433, -2.251162",
+        "payload": {
+          "temperature": "-7C",
+          "height": "9.42M",
+          "speed": "19.81M/s",
+          "battery": "56%",
+          "oxygen": "36mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "ef23348f-b8bb-44aa-9f76-22f8ca899bee",
+        "date": "2020-02-20T02:08:18.035Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "21C",
+          "height": "13.07M",
+          "speed": "14.88M/s",
+          "battery": "22%",
+          "oxygen": "10mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "96d90fef-8fd2-4321-87d6-2aaaeb47c901",
+        "date": "2019-01-29T23:13:40.502Z",
+        "location": "51.892433, -2.261162",
+        "payload": {
+          "temperature": "21C",
+          "height": "17.13M",
+          "speed": "17.67M/s",
+          "battery": "39%",
+          "oxygen": "2mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "a524bea3-9122-42d1-9e76-dd1fab6edc7b",
+        "date": "2019-06-23T10:32:19.378Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "0C",
+          "height": "9.75M",
+          "speed": "3.45M/s",
+          "battery": "94%",
+          "oxygen": "26mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "48f5a706-21f5-424c-a256-b304b853bae9",
+        "date": "2020-05-08T04:02:48.000Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "9C",
+          "height": "16.22M",
+          "speed": "16.93M/s",
+          "battery": "75%",
+          "oxygen": "30mg/L",
+          "alarm": false,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "b4451c32-a40c-409f-81db-54dd123084b5",
+        "date": "2019-06-11T04:35:48.268Z",
+        "location": "51.892433, -2.251162",
+        "payload": {
+          "temperature": "30C",
+          "height": "11.29M",
+          "speed": "18.33M/s",
+          "battery": "86%",
+          "oxygen": "45mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      },
+      {
+        "id": "56266443-1303-42fa-a237-e4c421dacf75",
+        "date": "2020-10-29T23:36:29.582Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "1C",
+          "height": "4.97M",
+          "speed": "19.54M/s",
+          "battery": "43%",
+          "oxygen": "26mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "9c7e12d5-962b-462c-9428-e91a1ed33a4d",
+        "date": "2020-10-03T21:06:26.386Z",
+        "location": "51.892433, -2.261162",
+        "payload": {
+          "temperature": "-4C",
+          "height": "12.9M",
+          "speed": "1.5M/s",
+          "battery": "32%",
+          "oxygen": "47mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "6e1e6a95-dae6-42b4-80bf-028e84513792",
+        "date": "2020-05-13T13:57:26.896Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "-9C",
+          "height": "8.68M",
+          "speed": "11.97M/s",
+          "battery": "55%",
+          "oxygen": "43mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "e1547f4e-247e-4185-8386-3732c1e9e137",
+        "date": "2019-05-15T16:50:33.577Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "-4C",
+          "height": "15.9M",
+          "speed": "8.8M/s",
+          "battery": "7%",
+          "oxygen": "20mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "0056ecb2-cba7-42cf-8c50-319d52433d1b",
+        "date": "2019-01-06T06:23:07.505Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "9C",
+          "height": "9.07M",
+          "speed": "15.64M/s",
+          "battery": "44%",
+          "oxygen": "4mg/L",
+          "alarm": false,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "87d8cfc1-2569-4869-bb54-5f2e38c18d33",
+        "date": "2020-10-10T13:49:36.733Z",
+        "location": "51.892433, -2.251162",
+        "payload": {
+          "temperature": "21C",
+          "height": "19.07M",
+          "speed": "13.82M/s",
+          "battery": "30%",
+          "oxygen": "26mg/L",
+          "alarm": false,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "243bfb74-35ed-4698-b822-1705c0cb0da0",
+        "date": "2019-11-12T07:42:04.013Z",
+        "location": "51.902433, -2.251162",
+        "payload": {
+          "temperature": "-7C",
+          "height": "18.67M",
+          "speed": "12.21M/s",
+          "battery": "58%",
+          "oxygen": "29mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "334a26a5-d068-4090-abdb-dc95e099766d",
+        "date": "2020-12-11T06:25:15.569Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "8C",
+          "height": "7.74M",
+          "speed": "12.93M/s",
+          "battery": "55%",
+          "oxygen": "35mg/L",
+          "alarm": true,
+          "state": "Rising"
+        }
+      },
+      {
+        "id": "973467fa-26f3-460e-bb53-d1424b7efe7e",
+        "date": "2020-12-20T23:10:31.810Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "-10C",
+          "height": "18.16M",
+          "speed": "8.82M/s",
+          "battery": "44%",
+          "oxygen": "22mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "9effdd57-41e5-4e48-8a7d-ef6e45650361",
+        "date": "2020-12-01T11:49:04.293Z",
+        "location": "51.902433, -2.261162",
+        "payload": {
+          "temperature": "-2C",
+          "height": "4.24M",
+          "speed": "17.06M/s",
+          "battery": "42%",
+          "oxygen": "20mg/L",
+          "alarm": true,
+          "state": "Falling"
+        }
+      },
+      {
+        "id": "3ed868b8-178d-4227-9f13-805dab8f02ba",
+        "date": "2019-05-30T06:37:29.127Z",
+        "location": "51.892433, -2.251162",
+        "payload": {
+          "temperature": "17C",
+          "height": "2.34M",
+          "speed": "19.74M/s",
+          "battery": "83%",
+          "oxygen": "46mg/L",
+          "alarm": true,
+          "state": "Constant"
+        }
+      }
+    ]
+  }
+]
