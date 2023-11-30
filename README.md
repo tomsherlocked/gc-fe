@@ -26,6 +26,7 @@
 
 ### Further improvements
 
+- Implement filter by individual sensor on the table page
 - Implement "View previous locations" functionality on the map page. I got short on time here but ideally pressing this button would update the map to show every location the selected sensor was at.
 - Clean up the filtering logic in `filterSensorData` - at the moment it's fairly basic and just loads the dataset into JSON before filtering. Ideally this would be stored in a more query-able database or store.
 - Implement pagination for tabular data.
